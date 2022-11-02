@@ -29,7 +29,7 @@ $ STRIPE_WEBHOOK_SECRET=$(stripe listen --print-secret) npm run dev
 $ npm install
 
 $ npm build
-~~~
+~~
 
 2. Run the application
 ~~~shell
